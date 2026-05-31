@@ -1,86 +1,81 @@
+```text
+Booting github profile...
 
-SSH-2.0-OpenSSH
+[  OK  ] Loading repositories
+[  OK  ] Loading projects
+[  OK  ] Loading research
+[  OK  ] Loading environment
 
-login: root
-password: ********
+Connection established.
 
-Access granted.
+root@github:~# whoami
 
---------------------------------------------------
+php developer
+security researcher
+smart contract auditor
 
-root@github:/# id
-
-uid=0(root)
-groups=security,blockchain,backend
-
---------------------------------------------------
-
-root@github:/# ls
+root@github:~# ls
 
 backend/
 blockchain/
 research/
 security/
 
---------------------------------------------------
+root@github:~# tree security
 
-root@github:/# cd security
+security
+├── web
+├── authentication
+├── authorization
+├── business_logic
+└── owasp
 
-root@github:/security# ls
+root@github:~# tree blockchain
 
-web/
-contracts/
-linux/
+blockchain
+├── solidity
+├── evm
+├── defi
+├── auditing
+└── gas_optimization
 
---------------------------------------------------
+root@github:~# cat languages
 
-root@github:/security/contracts# cat capabilities
+PHP
+Python
+C
+C++
+Rust
+Solidity
+Dart
 
-solidity auditing
-evm analysis
-defi research
-gas optimization
-attack surface review
+root@github:~# cat current_focus
 
---------------------------------------------------
+EVM Internals
+Smart Contract Security
+Zero Knowledge Systems
+Rust
 
-root@github:/security/web# cat capabilities
+root@github:~# find repositories/
 
-authentication
-authorization
-business logic
-api security
-owasp
+repositories/
+├── audits
+├── tools
+├── contracts
+├── backend
+└── research
 
---------------------------------------------------
-
-root@github:/# cat stack
-
-php
-python
-c
-c++
-rust
-solidity
-
-docker
-linux
-postgresql
-redis
-
---------------------------------------------------
-
-root@github:/# cat current_task
-
-analyzing evm internals...
-
---------------------------------------------------
-
-root@github:/# ping contact
+root@github:~# echo $CONTACT
 
 t.me/AradPhpProgrammer
 
---------------------------------------------------
+root@github:~# _
+```
 
-root@github:/# _
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AradPhpProgrammer&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AradPhpProgrammer&theme=github-dark-blue&hide_border=true&background=00000000" />
+</p>
