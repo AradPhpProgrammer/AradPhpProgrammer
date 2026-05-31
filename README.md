@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=42&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%F0%9F%92%80+AradPhpProgrammer+%F0%9F%92%80;%D8%A7%D8%B1%D8%A7%D8%AF%D9%87;Will+Over+Skill;Breaker+of+Chains+%26+Contracts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=42&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=AradPhpProgrammer;%D8%A7%D8%B1%D8%A7%D8%AF%D9%87;Will+Over+Skill;Breaker+of+Chains+%26+Contracts" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -40,7 +40,6 @@
 
 ### 👁️‍🗨️ WHOAMI
 
-```bash
 $ whoami
 AradPhpProgrammer
 
@@ -49,9 +48,9 @@ Offensive Security | Blockchain Exploitation | Full-Stack Darkness
 
 $ cat /proc/will
 arad : 100%
-```
 
-````
+
+
 
 <img align="right" alt="Hacking" width="350" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" />
 
@@ -115,7 +114,7 @@ _(Live stats from the battlefield)_
 
 ## 🧬 ** (CHARACTER) – THE REAL SOURCE CODE**
 
-```
+
 I don't collect languages like trading cards.
 Every tool in my arsenal earned its place by bending to my will.
 
@@ -124,7 +123,6 @@ Every tool in my arsenal earned its place by bending to my will.
 - Discipline: Kali is a temple, not a toy.
 - Humility: I know I'm still a student of the matrix.
 - arad: My name isn't just letters. It's the only exploit I need.
-```
 
 > _“They told me I couldn't. I answered in code.”_
 
@@ -141,4 +139,4 @@ Every tool in my arsenal earned its place by bending to my will.
   <br>
   <sub>☠️  AradPhpProgrammer – Hacking the future, one block at a time  ☠️</sub>
 </div>
-````
+
