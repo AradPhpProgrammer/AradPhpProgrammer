@@ -1,46 +1,59 @@
+# 0x00
 
-$ whoami
+```text
+[ STATUS ]
 
-php developer
-security researcher
-smart contract auditor
+WEB SECURITY
+SMART CONTRACT SECURITY
+EVM RESEARCH
+BACKEND DEVELOPMENT
+LINUX
 
+------------------------------------------------
 
+[ LANGUAGES ]
 
-$ ls expertise/
+PHP
+PYTHON
+C
+C++
+RUST
+SOLIDITY
 
-blockchain-security
-solidity
-evm
-web-security
-backend-development
-linux
+------------------------------------------------
 
+[ TOOLING ]
 
+DOCKER
+GIT
+FOUNDRY
+HARDHAT
+POSTGRESQL
+REDIS
 
-$ ls tools/
+------------------------------------------------
 
-php
-python
-c
-cpp
-rust
-solidity
-docker
-git
+[ FOCUS ]
 
+EVM INTERNALS
+AUDITING
+LOW LEVEL RESEARCH
+ZERO KNOWLEDGE SYSTEMS
 
-
-$ cat focus.txt
-
-zk
-evm-internals
-smart-contract-auditing
-rust
-
-
-
-$ echo $CONTACT
+------------------------------------------------
 
 t.me/AradPhpProgrammer
+```
 
+---
+
+## GitHub Statistics
+
+---
+
+## Contact
+
+```text
+Telegram:
+t.me/AradPhpProgrammer
+```
