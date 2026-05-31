@@ -1,59 +1,86 @@
-# 0x00
-
 ```text
-[ STATUS ]
+SSH-2.0-OpenSSH
 
-WEB SECURITY
-SMART CONTRACT SECURITY
-EVM RESEARCH
-BACKEND DEVELOPMENT
-LINUX
+login: root
+password: ********
 
-------------------------------------------------
+Access granted.
 
-[ LANGUAGES ]
+--------------------------------------------------
 
-PHP
-PYTHON
-C
-C++
-RUST
-SOLIDITY
+root@github:/# id
 
-------------------------------------------------
+uid=0(root)
+groups=security,blockchain,backend
 
-[ TOOLING ]
+--------------------------------------------------
 
-DOCKER
-GIT
-FOUNDRY
-HARDHAT
-POSTGRESQL
-REDIS
+root@github:/# ls
 
-------------------------------------------------
+backend/
+blockchain/
+research/
+security/
 
-[ FOCUS ]
+--------------------------------------------------
 
-EVM INTERNALS
-AUDITING
-LOW LEVEL RESEARCH
-ZERO KNOWLEDGE SYSTEMS
+root@github:/# cd security
 
-------------------------------------------------
+root@github:/security# ls
+
+web/
+contracts/
+linux/
+
+--------------------------------------------------
+
+root@github:/security/contracts# cat capabilities
+
+solidity auditing
+evm analysis
+defi research
+gas optimization
+attack surface review
+
+--------------------------------------------------
+
+root@github:/security/web# cat capabilities
+
+authentication
+authorization
+business logic
+api security
+owasp
+
+--------------------------------------------------
+
+root@github:/# cat stack
+
+php
+python
+c
+c++
+rust
+solidity
+
+docker
+linux
+postgresql
+redis
+
+--------------------------------------------------
+
+root@github:/# cat current_task
+
+analyzing evm internals...
+
+--------------------------------------------------
+
+root@github:/# ping contact
 
 t.me/AradPhpProgrammer
-```
 
----
+--------------------------------------------------
 
-## GitHub Statistics
-
----
-
-## Contact
-
-```text
-Telegram:
-t.me/AradPhpProgrammer
+root@github:/# _
 ```
