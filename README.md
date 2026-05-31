@@ -64,7 +64,7 @@ arad : 100%
 
 ---
 
-## 🔥 **ARAD’S ARSENAL**
+## 🔥 **ARAD' ARSENAL**
 
 _Weapons chosen by will, not by hype._
 
@@ -112,7 +112,7 @@ _(Live stats from the battlefield)_
 
 ---
 
-## 🧬 ** (CHARACTER) – THE REAL SOURCE CODE**
+## 🧬 ** (CHARACTER) – THE REAL SOURCE CODE **
 
 
 I don't collect languages like trading cards.
@@ -137,6 +137,6 @@ Every tool in my arsenal earned its place by bending to my will.
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=AradPhpProgrammer&style=flat-square&color=00FF41&label=VISITORS" alt="Profile Views" />
   <br>
-  <sub>☠️  AradPhpProgrammer – Hacking the future, one block at a time  ☠️</sub>
+  <sub>  AradPhpProgrammer – Hacking the future, one block at a time  </sub>
 </div>
 
