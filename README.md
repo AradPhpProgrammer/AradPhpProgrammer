@@ -1,4 +1,4 @@
-```text
+
 SSH-2.0-OpenSSH
 
 login: root
@@ -83,4 +83,4 @@ t.me/AradPhpProgrammer
 --------------------------------------------------
 
 root@github:/# _
-```
+
