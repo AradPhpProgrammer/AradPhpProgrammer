@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Arad
 
 I've been programming for **8 years** and I love building things with code.  
 From websites to deep learning, I'm always excited to learn and solve interesting problems.
